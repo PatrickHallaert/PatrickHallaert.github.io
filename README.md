@@ -1,4 +1,4 @@
-# PatrickHallaert.github.io
+# Curriculum Vitae
 
 ## Education			        		
 **BS, Honors Biology | McGill University (2019-2023)**
