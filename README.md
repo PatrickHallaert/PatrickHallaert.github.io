@@ -40,45 +40,31 @@
 
 ## Presentations
 
-**2024 National Institutes of Health (NIH) Research Festival**  
-
-*Poster: “Clonal T cell expansion drives spontaneous tumor regression in Merkel cell carcinoma" (September 2024)*
+1. **2024 National Institutes of Health (NIH) Research Festival**  *Poster: “Clonal T cell expansion drives spontaneous tumor regression in Merkel cell carcinoma" (September 2024)*
  
-**2024 NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) Intramural Research Program Scientific Retreat**  
-
-*Poster: "Spontaneous regression of Merkel cell carcinoma is driven by clonal T cell expansion” (June 2024)*
+2. **2024 NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) Intramural Research Program Scientific Retreat**  *Poster: "Spontaneous regression of Merkel cell carcinoma is driven by clonal T cell expansion” (June 2024)*
 - Won the 2024 Best Poster Presentation Award.
  
-**2024 NIH NIAMS Three-Minute Talk Competition**  
-
-*Presentation: “A Vanishing Act: How Your Body Can Naturally Kill Cancer" (May 2024)*
+3. **2024 NIH NIAMS Three-Minute Talk Competition**  *Presentation: “A Vanishing Act: How Your Body Can Naturally Kill Cancer" (May 2024)*
  
-**2024 NIH Postbac Poster Day**  
-
-Poster: “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma" (May 2024)*
+**4. 2024 NIH Postbac Poster Day**  Poster: “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma" (May 2024)*
 - Won the 2024 Outstanding Poster Award.
  
-**2023 NIH Research Festival**  
-
-*Poster: “Gfi1 controls Merkel cell survival through a dependence receptor pathway (September 2023)*
+**5. 2023 NIH Research Festival**  *Poster: “Gfi1 controls Merkel cell survival through a dependence receptor pathway (September 2023)*
  
-**2023 NIH NIAMS Intramural Research Program Scientific Retreat**  
+**6. 2023 NIH NIAMS Intramural Research Program Scientific Retreat**  *Poster: "Gfi1 regulates dependence receptors to prevent suicide in sensory Merkel cells" (June 2023)*
 
-*Poster: "Gfi1 regulates dependence receptors to prevent suicide in sensory Merkel cells" (June 2023)*
-
-**Honors Biology Program Symposium at McGill University**  
-
-*Presentation: “Exploring chemotherapeutic resistance in lung cancer" (April 2023)*
+**7. Honors Biology Program Symposium at McGill University**  *Presentation: “Exploring chemotherapeutic resistance in lung cancer" (April 2023)*
 
 ## Abstracts
 
-**“POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development”**  
+1. **“POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development”**  
 
 *Society for Investigative Dermatology Annual Meeting (Dallas, TX, USA) | May 2024*  
 
 Jordan E. Jarvis, Lingling Miao, *Patrick Hallaert*, Mackenzie R. Martin, Loren Collado , Natasha T. Hill , Isaac Brownell
  
-**"Non-coding RNA biotypes are a hallmark of terminal differentiation"**  
+2. **"Non-coding RNA biotypes are a hallmark of terminal differentiation"**  
 
 *2024 NIH NIAMS Intramural Research Program Scientific Retreat (Bethesda, MD) | June 2024*  
 
