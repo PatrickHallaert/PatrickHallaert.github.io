@@ -59,20 +59,3 @@
 6. **2023 NIH NIAMS Intramural Research Program Scientific Retreat**  *Poster: "Gfi1 regulates dependence receptors to prevent suicide in sensory Merkel cells" (June 2023)*
 
 7. **Honors Biology Program Symposium at McGill University**  *Presentation: “Exploring chemotherapeutic resistance in lung cancer" (April 2023)*
-
-## Abstracts
-
-1. **“POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development”**  
-
-*Society for Investigative Dermatology Annual Meeting (Dallas, TX, USA) - May 2024*  
-
-Jordan E. Jarvis, Lingling Miao, *Patrick Hallaert*, Mackenzie R. Martin, Loren Collado , Natasha T. Hill , Isaac Brownell
- 
-2. **"Non-coding RNA biotypes are a hallmark of terminal differentiation"**  
-
-*2024 NIH NIAMS Intramural Research Program Scientific Retreat (Bethesda, MD) - June 2024*  
-
-Lingling Miao, Loren Collado, Savannah Barkdull, *Patrick Hallaert*, Mackenzie Martin, Michael Kelly, Stefania Dell’Orso, Natalia Veniaminova, Sunny Wong, Matthew Kelley, Isaac Brownell.
-
-
-
