@@ -42,19 +42,19 @@
    
 4. [Strong J, Poon V, **Hallaert P**, Francis D, Pastor D, Castelo-Soccio L, Strauss J, Brownell I. Alopecia and hair repigmentation associated with anti-PD-L1 immunotherapy. JAAD Case Reports, 2024.](https://www.jaadcasereports.org/article/S2352-5126(24)00431-4/fulltext)
 
-5. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. 408 POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development, Journal of Investigative Dermatology (Society for Investigative Dermatology (SID) 2024 Meeting Abstract), Volume 144, Issue 8, Supplement, 2024, Page S71, ISSN 0022-202X. https://doi.org/10.1016/j.jid.2024.06.424.](https://www.sciencedirect.com/science/article/abs/pii/S0022202X2400873X)
+5. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. 408 POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development, Journal of Investigative Dermatology (Society for Investigative Dermatology 2024 Meeting Abstract), Volume 144, Issue 8, Supplement, 2024, Page S71, ISSN 0022-202X. https://doi.org/10.1016/j.jid.2024.06.424.](https://www.sciencedirect.com/science/article/abs/pii/S0022202X2400873X)
 
 ## Presentations
 
 1. **2024 National Institutes of Health (NIH) Research Festival**  *Poster: “Clonal T cell expansion drives spontaneous tumor regression in Merkel cell carcinoma" (September 2024)*
  
 2. **2024 NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) Intramural Research Program Scientific Retreat**  *Poster: "Spontaneous regression of Merkel cell carcinoma is driven by clonal T cell expansion” (June 2024)*
-- Won the 2024 Best Poster Presentation Award.
+- Won the 2024 **Best Poster Presentation Award.**
  
 3. **2024 NIH NIAMS Three-Minute Talk Competition**  *Presentation: “A Vanishing Act: How Your Body Can Naturally Kill Cancer" (May 2024)*
  
-4. **2024 NIH Postbac Poster Day**  Poster: “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma" (May 2024)*
-- Won the 2024 Outstanding Poster Award.
+4. **2024 NIH Postbac Poster Day**  *Poster: “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma" (May 2024)*
+- Won the 2024 **Outstanding Poster Award.**
  
 5. **2023 NIH Research Festival**  *Poster: “Gfi1 controls Merkel cell survival through a dependence receptor pathway (September 2023)*
  
