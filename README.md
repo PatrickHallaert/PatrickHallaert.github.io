@@ -42,7 +42,7 @@
    
 4. [Strong J, Poon V, **Hallaert P**, Francis D, Pastor D, Castelo-Soccio L, Strauss J, Brownell I. Alopecia and hair repigmentation associated with anti-PD-L1 immunotherapy. JAAD Case Reports, 2024.](https://www.jaadcasereports.org/article/S2352-5126(24)00431-4/fulltext)
 
-5. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. 408 POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development, Journal of Investigative Dermatology, Volume 144, Issue 8, Supplement, 2024, Page S71, ISSN 0022-202X. https://doi.org/10.1016/j.jid.2024.06.424.(Society for Investigative Dermatology (SID) 2024 Meeting Abstract)](https://www.sciencedirect.com/science/article/abs/pii/S0022202X2400873X)
+5. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. 408 POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development, Journal of Investigative Dermatology (Society for Investigative Dermatology (SID) 2024 Meeting Abstract), Volume 144, Issue 8, Supplement, 2024, Page S71, ISSN 0022-202X. https://doi.org/10.1016/j.jid.2024.06.424.](https://www.sciencedirect.com/science/article/abs/pii/S0022202X2400873X)
 
 ## Presentations
 
