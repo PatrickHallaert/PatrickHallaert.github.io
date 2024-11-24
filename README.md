@@ -6,23 +6,27 @@
   - Honors Thesis: *Exploring Trametinib Resistance in Lung Adenocarcinoma: What Ablated Kinases Could Function Synergistically with MEK1/2 Inhibition to Prevent Cancer Recurrence.*
 
 ### Research Experience
-**National Institutes of Health:**
+**National Institutes of Health:**  
+
 *Postbaccalaureate Research Fellow - Brownell Lab (May 2023 - Present)*
 - As the group's mouse colony manager, I validate and conserve the genetic makeup and phenotypes of hundreds of mice spanning 50 genetic strains. I am also working to create a mouse model of Merkel cell carcinoma.
 - Concurrently, I also work on other research projects that bridge the gap between the bench and the clinic. These include exploring how the immune system can precipitate spontaneous regression in Merkel cell carcinoma, investigating the role of Gfi1 in Merkel cell differentiation, and drafting dermatology case reports.
 
-**McGill University:**
+**McGill University:**  
+
 *Honors Undergraduate Researcher - Dankort Lab (September 2022 - April 2023)*
 - My project aimed to uncover ablated kinases that resensitize drug-resistant lung adenocarcinoma (LUAC) cells to trametinib, a MEK inhibitor drug.
 - This involved conducting a kinase-targeting CRISPR screen on mouse-derived, trametinib-resistant LUAC cells with p53 loss and oncogenic Kras or Braf mutations.
 
-**Harvard School of Public Health:**
+**Harvard School of Public Health:**  
+
 *Research Assistant - Lu Lab (July 2022)*
 - Prepared ARRDC1-mediated microvesicles (ARMMs) by transfecting HEK293 cells with a plasmid containing a shortened ARRDC1-Cas9 fusion protein targeting the GFP gene.
 - After collecting and quantifying the microvesicles, recipient U2OS-GFP cells were treated with the ARMMs.
 - Genome editing efficacy was determined via flow cytometry and sequencing; the use of these ARMMs resulted in a decrease in GFP-positive cells, demonstrating that gene editing likely occurred.
 
-**Harvard School of Public Health:**
+**Harvard School of Public Health:**  
+
 *Research Assistant - Lin Lab (May - June 2022)*
 - Assisted with the development of FAVOR (Functional Annotation of Variants Online Resource), which gathers, outlines, and visualizes functional annotation data.
 - Employed Python, R, and the command line to create a back-end functional annotation database for the GRCh37 / hg19 reference genome.
@@ -47,14 +51,14 @@
  
 3. **2024 NIH NIAMS Three-Minute Talk Competition**  *Presentation: “A Vanishing Act: How Your Body Can Naturally Kill Cancer" (May 2024)*
  
-**4. 2024 NIH Postbac Poster Day**  Poster: “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma" (May 2024)*
+4. **2024 NIH Postbac Poster Day**  Poster: “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma" (May 2024)*
 - Won the 2024 Outstanding Poster Award.
  
-**5. 2023 NIH Research Festival**  *Poster: “Gfi1 controls Merkel cell survival through a dependence receptor pathway (September 2023)*
+5. **2023 NIH Research Festival**  *Poster: “Gfi1 controls Merkel cell survival through a dependence receptor pathway (September 2023)*
  
-**6. 2023 NIH NIAMS Intramural Research Program Scientific Retreat**  *Poster: "Gfi1 regulates dependence receptors to prevent suicide in sensory Merkel cells" (June 2023)*
+6. **2023 NIH NIAMS Intramural Research Program Scientific Retreat**  *Poster: "Gfi1 regulates dependence receptors to prevent suicide in sensory Merkel cells" (June 2023)*
 
-**7. Honors Biology Program Symposium at McGill University**  *Presentation: “Exploring chemotherapeutic resistance in lung cancer" (April 2023)*
+7. **Honors Biology Program Symposium at McGill University**  *Presentation: “Exploring chemotherapeutic resistance in lung cancer" (April 2023)*
 
 ## Abstracts
 
