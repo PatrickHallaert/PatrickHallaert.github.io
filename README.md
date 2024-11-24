@@ -5,7 +5,7 @@
   - Graduated with First Class Honors
   - Honors Thesis: *Exploring Trametinib Resistance in Lung Adenocarcinoma: What Ablated Kinases Could Function Synergistically with MEK1/2 Inhibition to Prevent Cancer Recurrence.*
 
-### Research Experience
+## Research Experience
 **National Institutes of Health:**  
 
 *Postbaccalaureate Research Fellow - Brownell Lab (May 2023 - Present)*
