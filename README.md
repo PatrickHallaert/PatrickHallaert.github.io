@@ -28,3 +28,8 @@
 - Employed Python, R, and the command line to create a back-end functional annotation database for the GRCh37 / hg19 reference genome.
 - Optimized database code to prioritize efficient memory consumption and low computing time; this process included correcting memory leaks and implementing techniques such as lazy loading and sparse data structures.
 
+## Publications
+1. [Garman KA, Thoreson N, Strong J, **Hallaert P**, Gelb T, Shen M, Hall MD, Brownell I. Mycophenolate mofetil inhibits Merkel cell carcinoma growth. Br J Dermatol. 2024 Mar 15;190(4):593-595. doi: 10.1093/bjd/ljae018. PMID: 38266271; PMCID: PMC10941324.](https://academic.oup.com/bjd/article/190/4/593/7588419)
+2. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. POU4F3 is necessary for normal Merkel cell formation whereas POU4F1 is dispensable. J Invest Dermatol. 2024 Jul 13:S0022-202X(24)01890-6. doi: 10.1016/j.jid.2024.06.1284. Epub ahead of print. PMID: 39009281.](https://www.jidonline.org/article/S0022-202X(24)01890-6/fulltext)
+3. [Strong J, **Hallaert P**, Brownell I. Merkel Cell Carcinoma. Hematol Oncol Clin North Am. 2024 Jul 25:S0889-8588(24)00062-5. doi: 10.1016/j.hoc.2024.05.013. Epub ahead of print. PMID: 39060119.](https://pubmed.ncbi.nlm.nih.gov/39060119/)
+4. [Strong J, Poon V, **Hallaert P**, Francis D, Pastor D, Castelo-Soccio L, Strauss J, Brownell I. Alopecia and hair repigmentation associated with anti-PD-L1 immunotherapy. JAAD Case Reports, 2024.](https://www.jaadcasereports.org/article/S2352-5126(24)00431-4/fulltext)
