@@ -52,15 +52,32 @@ JAAD Case Reports (2024), doi: https://doi.org/10.1016/j.jdcr.2024.09.029.](http
 1. **2024 National Institutes of Health (NIH) Research Festival**  *Poster: “Clonal T cell expansion drives spontaneous tumor regression in Merkel cell carcinoma" (September 2024)*
  
 2. **2024 NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) Intramural Research Program Scientific Retreat**  *Poster: "Spontaneous regression of Merkel cell carcinoma is driven by clonal T cell expansion” (June 2024)*
-- Won the 2024 **Best Poster Presentation Award.**
  
 3. **2024 NIH NIAMS Three-Minute Talk Competition**  *Presentation: “A Vanishing Act: How Your Body Can Naturally Kill Cancer" (May 2024)*
  
 4. **2024 NIH Postbac Poster Day**  *Poster: “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma" (May 2024)*
-- Won the 2024 **Outstanding Poster Award.**
  
 5. **2023 NIH Research Festival**  *Poster: “Gfi1 controls Merkel cell survival through a dependence receptor pathway (September 2023)*
  
 6. **2023 NIH NIAMS Intramural Research Program Scientific Retreat**  *Poster: "Gfi1 regulates dependence receptors to prevent suicide in sensory Merkel cells" (June 2023)*
 
 7. **Honors Biology Program Symposium at McGill University**  *Presentation: “Exploring chemotherapeutic resistance in lung cancer" (April 2023)*
+
+## Awards
+
+1. **“Spotlighted Research Fellow” in the NIAMS CDOB Newsletter - July 2024**
+- Invited due to success in my research fellowship position; Answered interview questions and provided advice for incoming or existing fellows, which were later published.
+ 
+2. **Best Poster Presentation Award - June 2024**
+- Associated with the 2024 NIH NIAMS Intramural Research Program Scientific Retreat for the poster “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma"
+ 
+3. **2024 Outstanding Poster Award - May 2024**
+- Associated with 2024 NIH Postbac Poster Day for the poster “Adaptive T cell expansion drives spontaneous regression in Merkel cell carcinoma"     
+ 
+4. **NIH National Institute of Arthritis and Musculoskeletal and Skin Diseases Intramural Research Training Award - May 2023**
+- Award associated with two-year research fellowship at NIH; designed to provide advanced training and research experiences to individuals early in their research careers.
+
+5. **First Class Honors - June 2023**
+- Associated with McGill University; Granted due to high academic achievement and the completion of an Honors Thesis during my B.S. in Honors Biology.  
+
+
