@@ -38,7 +38,7 @@
 
 2. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. POU4F3 is necessary for normal Merkel cell formation whereas POU4F1 is dispensable. J Invest Dermatol. 2024 Jul 13:S0022-202X(24)01890-6. doi: 10.1016/j.jid.2024.06.1284. Epub ahead of print. PMID: 39009281.](https://www.jidonline.org/article/S0022-202X(24)01890-6/fulltext)
   
-3. [Strong J, **Hallaert P**, Brownell I. Merkel Cell Carcinoma. Hematol Oncol Clin North Am. 2024 Jul 25:S0889-8588(24)00062-5. doi: 10.1016/j.hoc.2024.05.013. Epub ahead of print. PMID: 39060119.](https://pubmed.ncbi.nlm.nih.gov/39060119/)
+3. [Strong J, **Hallaert P**, Brownell I. Merkel Cell Carcinoma. Hematol Oncol Clin North Am. 2024 Jul 25:S0889-8588(24)00062-5. doi: 10.1016/j.hoc.2024.05.013. Epub ahead of print. PMID: 39060119.](https://www.hemonc.theclinics.com/article/S0889-8588(24)00062-5/abstract)
    
 4. [Strong J, Poon VI, **Hallaert P**, Francis D, Pastor DM, Castelo-Soccio L, Strauss J, Brownell I, Alopecia and hair repigmentation associated with anti-PD-L1 immunotherapy,
 JAAD Case Reports (2024), doi: https://doi.org/10.1016/j.jdcr.2024.09.029.](https://www.jaadcasereports.org/article/S2352-5126(24)00431-4/fulltext)
