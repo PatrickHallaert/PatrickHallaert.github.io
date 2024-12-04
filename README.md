@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# My Experiences:
 
 ## Education			        		
 **BS, Honors Biology | McGill University (2019-2023)**
