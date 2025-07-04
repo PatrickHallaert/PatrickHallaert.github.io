@@ -43,6 +43,8 @@ JAAD Case Reports (2024), doi: https://doi.org/10.1016/j.jdcr.2024.09.029.](http
 
 5. [Strong J, Adhanom R, Kim CS, Saito Y, Meltzer JC, **Hallaert P**, Martinez S, Salancy A, Kong HH, Cowen EW, Castelo-Soccio L, Murphy PM, McDermott DH, Brownell I. Risk of Superficial Fungal Infections in WHIM Syndrome. Dermatol Ther (Heidelb) (2025), doi: https://doi.org/10.1007/s13555-025-01396-0.](https://link.springer.com/article/10.1007/s13555-025-01396-0)
 
+6. [**Hallaert P**, Roman JW, Baker M, Hill NT, Marte JL, Gulley JL, Logemann N, Hudgens CW, Reuben A, Brownell I. Spontaneous tumor regression and immunotherapy response demonstrate clonal T-cell expansion in Merkel cell carcinoma. NPJ Precis Oncol. 2025 Jul 1;9(1):212. doi: 10.1038/s41698-025-00987-6. PMID: 40594889.](https://www.nature.com/articles/s41698-025-00987-6)
+
 ## Conference Abstracts
 
 1. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. 408 POU4F3 and POU4F1 are expressed in mouse Merkel cells but only POU4F3 is critical for their development, Journal of Investigative Dermatology (Society for Investigative Dermatology 2024 Meeting Abstract), Volume 144, Issue 8, Supplement, 2024, Page S71, ISSN 0022-202X. https://doi.org/10.1016/j.jid.2024.06.424.](https://www.sciencedirect.com/science/article/abs/pii/S0022202X2400873X)
