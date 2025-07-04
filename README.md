@@ -32,18 +32,18 @@
 
 ## Publications
 
-1. [Garman KA, Thoreson N, Strong J, **Hallaert P**, Gelb T, Shen M, Hall MD, Brownell I. Mycophenolate mofetil inhibits Merkel cell carcinoma growth. Br J Dermatol. 2024 Mar 15;190(4):593-595. doi: 10.1093/bjd/ljae018. PMID: 38266271; PMCID: PMC10941324.](https://academic.oup.com/bjd/article/190/4/593/7588419)
+1. [**Hallaert P**, Roman JW, Baker M, Hill NT, Marte JL, Gulley JL, Logemann N, Hudgens CW, Reuben A, Brownell I. Spontaneous tumor regression and immunotherapy response demonstrate clonal T-cell expansion in Merkel cell carcinoma. NPJ Precis Oncol. 2025 Jul 1;9(1):212. doi: 10.1038/s41698-025-00987-6. PMID: 40594889.](https://www.nature.com/articles/s41698-025-00987-6)
 
-2. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. POU4F3 is necessary for normal Merkel cell formation whereas POU4F1 is dispensable. J Invest Dermatol. 2024 Jul 13:S0022-202X(24)01890-6. doi: 10.1016/j.jid.2024.06.1284. Epub ahead of print. PMID: 39009281.](https://www.jidonline.org/article/S0022-202X(24)01890-6/fulltext)
+2. [Garman KA, Thoreson N, Strong J, **Hallaert P**, Gelb T, Shen M, Hall MD, Brownell I. Mycophenolate mofetil inhibits Merkel cell carcinoma growth. Br J Dermatol. 2024 Mar 15;190(4):593-595. doi: 10.1093/bjd/ljae018. PMID: 38266271; PMCID: PMC10941324.](https://academic.oup.com/bjd/article/190/4/593/7588419)
+
+3. [Jarvis JE, Miao L, **Hallaert P**, Martin MR, Collado L, Hill NT, Brownell I. POU4F3 is necessary for normal Merkel cell formation whereas POU4F1 is dispensable. J Invest Dermatol. 2024 Jul 13:S0022-202X(24)01890-6. doi: 10.1016/j.jid.2024.06.1284. Epub ahead of print. PMID: 39009281.](https://www.jidonline.org/article/S0022-202X(24)01890-6/fulltext)
   
-3. [Strong J, **Hallaert P**, Brownell I. Merkel Cell Carcinoma. Hematol Oncol Clin North Am. 2024 Jul 25:S0889-8588(24)00062-5. doi: 10.1016/j.hoc.2024.05.013. Epub ahead of print. PMID: 39060119.](https://www.hemonc.theclinics.com/article/S0889-8588(24)00062-5/abstract)
+4. [Strong J, **Hallaert P**, Brownell I. Merkel Cell Carcinoma. Hematol Oncol Clin North Am. 2024 Jul 25:S0889-8588(24)00062-5. doi: 10.1016/j.hoc.2024.05.013. Epub ahead of print. PMID: 39060119.](https://www.hemonc.theclinics.com/article/S0889-8588(24)00062-5/abstract)
    
-4. [Strong J, Poon VI, **Hallaert P**, Francis D, Pastor DM, Castelo-Soccio L, Strauss J, Brownell I, Alopecia and hair repigmentation associated with anti-PD-L1 immunotherapy,
+5. [Strong J, Poon VI, **Hallaert P**, Francis D, Pastor DM, Castelo-Soccio L, Strauss J, Brownell I, Alopecia and hair repigmentation associated with anti-PD-L1 immunotherapy,
 JAAD Case Reports (2024), doi: https://doi.org/10.1016/j.jdcr.2024.09.029.](https://www.jaadcasereports.org/article/S2352-5126(24)00431-4/fulltext)
 
-5. [Strong J, Adhanom R, Kim CS, Saito Y, Meltzer JC, **Hallaert P**, Martinez S, Salancy A, Kong HH, Cowen EW, Castelo-Soccio L, Murphy PM, McDermott DH, Brownell I. Risk of Superficial Fungal Infections in WHIM Syndrome. Dermatol Ther (Heidelb) (2025), doi: https://doi.org/10.1007/s13555-025-01396-0.](https://link.springer.com/article/10.1007/s13555-025-01396-0)
-
-6. [**Hallaert P**, Roman JW, Baker M, Hill NT, Marte JL, Gulley JL, Logemann N, Hudgens CW, Reuben A, Brownell I. Spontaneous tumor regression and immunotherapy response demonstrate clonal T-cell expansion in Merkel cell carcinoma. NPJ Precis Oncol. 2025 Jul 1;9(1):212. doi: 10.1038/s41698-025-00987-6. PMID: 40594889.](https://www.nature.com/articles/s41698-025-00987-6)
+6. [Strong J, Adhanom R, Kim CS, Saito Y, Meltzer JC, **Hallaert P**, Martinez S, Salancy A, Kong HH, Cowen EW, Castelo-Soccio L, Murphy PM, McDermott DH, Brownell I. Risk of Superficial Fungal Infections in WHIM Syndrome. Dermatol Ther (Heidelb) (2025), doi: https://doi.org/10.1007/s13555-025-01396-0.](https://link.springer.com/article/10.1007/s13555-025-01396-0)
 
 ## Conference Abstracts
 
