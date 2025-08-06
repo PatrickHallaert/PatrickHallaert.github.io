@@ -4,8 +4,6 @@
 **MD | Emory University School of Medicine (2025-2029)**
  
 **BS, Honors Biology | McGill University (2019-2023)**
-  - Graduated with **First Class Honors**
-  - Honors Thesis: *Exploring Trametinib Resistance in Lung Adenocarcinoma: What Ablated Kinases Could Function Synergistically with MEK1/2 Inhibition to Prevent Cancer Recurrence?*
 
 ## Research Experience
 **National Institutes of Health:**  
