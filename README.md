@@ -1,9 +1,9 @@
 # CV
 
 ## Education			        		
-**MD | Emory University School of Medicine (2025-2029)**
+**MD** | Emory University School of Medicine | 2025-2029
  
-**BS, Honors Biology | McGill University (2019-2023)**
+**BS, Honors Biology** | McGill University | 2019-2023
 
 ## Research Experience
 **National Institutes of Health:**  
@@ -45,7 +45,7 @@ JAAD Case Reports (2024), doi: https://doi.org/10.1016/j.jdcr.2024.09.029.](http
 
 6. [Strong J, Adhanom R, Kim CS, Saito Y, Meltzer JC, **Hallaert P**, Martinez S, Salancy A, Kong HH, Cowen EW, Castelo-Soccio L, Murphy PM, McDermott DH, Brownell I. Risk of Superficial Fungal Infections in WHIM Syndrome. Dermatol Ther (Heidelb) (2025), doi: https://doi.org/10.1007/s13555-025-01396-0.](https://link.springer.com/article/10.1007/s13555-025-01396-0)
   
-7. [Strong J, Winkie MJ, **Hallaert P**, Whitecar SB, Keung ES, Neelon D, Zeman KG, Gage MM, Schaffenburg WC, Simpson MM, Brownell I. Epidermotropic Metastatic Melanoma Presenting as Eruptive Primary Melanomas. Pigment Cell Melanoma Research(2025), doi: 10.1111/pcmr.70037.] (https://onlinelibrary.wiley.com/doi/10.1111/pcmr.70037)
+7. [Strong J, Winkie MJ, **Hallaert P**, Whitecar SB, Keung ES, Neelon D, Zeman KG, Gage MM, Schaffenburg WC, Simpson MM, Brownell I. Epidermotropic Metastatic Melanoma Presenting as Eruptive Primary Melanomas. Pigment Cell Melanoma Research(2025), doi: 10.1111/pcmr.70037.](https://onlinelibrary.wiley.com/doi/10.1111/pcmr.70037)
 
 ## Conference Abstracts
 
