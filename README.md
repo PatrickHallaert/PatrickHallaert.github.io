@@ -8,7 +8,7 @@
 ## Research Experience
 **National Institutes of Health:**  
 
-*Postbaccalaureate Research Fellow - Brownell Lab (May 2023 - Present)*
+*Postbaccalaureate Research Fellow - Brownell Lab (May 2023 - June 2025)*
 - As the group's mouse colony manager, I validate and conserve the genetic makeup and phenotypes of hundreds of mice spanning 50 genetic strains. I am also working to create a **mouse model of Merkel cell carcinoma**.
 - Concurrently, I also work on other research projects that bridge the gap between the bench and the clinic. These include exploring how the immune system can precipitate **spontaneous regression** in Merkel cell carcinoma, investigating the role of Gfi1 in **Merkel cell differentiation**, and drafting dermatology case reports.
 
