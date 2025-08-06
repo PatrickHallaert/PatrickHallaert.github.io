@@ -1,9 +1,9 @@
 # CV
 
 ## Education			        		
-**MD** | Emory University School of Medicine | 2025-2029
+**MD | Emory University School of Medicine | 2025-2029**
  
-**BS, Honors Biology** | McGill University | 2019-2023
+**BS, Honors Biology | McGill University | 2019-2023**
 
 ## Research Experience
 **National Institutes of Health:**  
